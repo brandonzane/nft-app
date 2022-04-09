@@ -1,4 +1,4 @@
-import { Text } from 'react'
+import { Text } from 'react-native'
 
 const Details = () => {
   return (
