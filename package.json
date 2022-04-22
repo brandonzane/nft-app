@@ -10,8 +10,11 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@3rdweb/hooks": "^1.9.2",
+    "@3rdweb/sdk": "^1.41.3",
     "@react-navigation/native": "^6.0.8",
     "@react-navigation/stack": "^6.1.1",
+    "@sanity/client": "^3.1.0",
     "expo": "~44.0.0",
     "expo-font": "^10.0.5",
     "expo-status-bar": "^1.2.0",
